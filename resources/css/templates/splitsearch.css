@@ -1,0 +1,122 @@
+#container {
+    width: 100%;
+}
+
+#search-area {
+    padding: 10px;
+    padding-top: 0;
+    min-width: 800px !important;
+}
+
+#map-canvas {
+    height: 400px;
+}
+
+#map-container {
+    position: relative;
+}
+
+#ajax-loader2 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -24px;
+    margin-left: -24px;
+}
+
+#ajax-loader3 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -24px;
+    margin-left: -24px;
+    background-color: rgba(255, 255, 255, 0.8);
+
+}
+
+#ajax-loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -40px;
+    margin-left: -111px;
+    background-color: rgba(255, 255, 255, 0.8);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.col-2 {
+    float: left;
+    min-width: 380px !important;
+}
+
+.first {
+    width: 48%;
+    margin-right: 2%;
+    min-width: 400px !important;
+}
+
+.listing img {
+    width: 150px;
+}
+
+.listing td {
+    padding-right: 10px;
+}
+
+.listing-address {
+    font-weight: bold;
+}
+
+.form-el {
+    width: 204px;
+}
+
+#search-form {
+    padding: 8px;
+    padding-bottom: 0;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+#search-form td {
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+#listings {
+    height: 400px;
+    overflow: scroll;
+    padding-top: 10px;
+
+}
+
+#listings-container {
+    position: relative;
+}
+
+.price_select {
+    width: 94px;
+}
+
+.bath_select {
+    width: 94px;
+}
+
+.bed_select {
+    width: 94px;
+}
+
+#listings-container p {
+    margin-bottom: 5px;
+}
+
+.sr-listing-price {
+    color: red;
+    text-align: center;
+    font-size: 17px;
+}

@@ -1,0 +1,38 @@
+#lead-capture td {
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+#lead_container{
+    background-color: rgb(233, 233, 233);
+    width: 300px;
+    padding: 10px;
+    border-radius: 6px;
+    border: 2px solid rgb(202, 202, 202);;
+}
+#lead_container input[type="text"]{
+    width:196px!important;
+    padding:2px;
+}
+#lead_container select{
+    width:90px;
+    padding:2px;
+}
+#lead_container input[type="submit"]{
+    margin:auto;
+    display:block;
+    margin-bottom:10px;
+}
+#lead_logo{
+    margin:auto;
+    display:block;
+    margin-bottom:10px;
+}
+#sr_lp-captcha {
+    width: 195px;
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}

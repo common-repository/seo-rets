@@ -1,0 +1,134 @@
+/* Default Styles */
+
+/* 2011 Default Listing Styles */
+#main #primary #content h4 {
+      clear:none;
+}
+#main #primary #content .sr-listing-pg table {
+      width: 230px !important;
+      font-size: 13px;
+}
+#main #primary #content .sr-listing-photos {
+      width:330px !important;
+}
+#container #content .entry-content .sr-listing td {
+       vertical-align:top !important;
+}
+#container #content .entry-content .sr-listing p {
+       margin-bottom:4px !important;
+}
+
+/* 2010 Default Listing Styles */
+#main #container #content h4 {
+      clear:none;
+}
+#main #container #content .sr-listing-pg table {
+      width: 280px !important;
+}
+#main #container #content .sr-listing-photos {
+      width:330px !important;
+}
+#main #primary #content .entry-content .sr-listing td {
+       vertical-align:top !important;
+}
+#main #primary #content .entry-content .sr-listing p {
+       margin-bottom:4px !important;
+}
+
+td {
+	vertical-align: top !important;
+}
+
+.sr-listing {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.srm-listing-sidebar td {
+	padding-right: 10px;
+}
+
+.srm-listing-sidebar {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.sr-refine {
+	background-color: #f1f1f1;
+	padding: 15px;
+}
+
+.sr-listing-photos {
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+
+.srm-listing-sidebar p {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.sr-listing td {
+	padding-right: 15px;
+}
+
+.sr-listing-title {
+       font-size: 22px;
+}
+
+.sr-listing-photo {
+	width: 300px;
+	height: 205px;
+}
+
+.sr-listing-photo-details {
+	width: 100px !important;
+	height: 75px;
+	float: left;
+	padding: 3px;
+}
+
+.sr-listing-photo-details-main {
+	width: 315px;
+	height: 236px;
+}
+
+.sr-listing p {
+	line-height: 1em !important;
+}
+
+.sr-listing-pg table {
+	width: auto !important;
+}
+
+.sr-listing-photos {
+	width: 350px;
+	float:right;
+}
+
+.description {
+	float: none !important;
+	text-align: left !important;
+	margin-left: 0 !important;
+}
+.show{
+    display:block;
+}
+.hide{
+    display:none;
+}
+.sr_alpha{
+    border-right: 1px solid black;
+    padding: 0px 2px 0 6px;
+    cursor:pointer;
+}
+.sr-selected-alphabet {
+    font-weight:bold;
+    border: 1px solid black;
+}
+.sr-List{
+    margin-top: 15px;
+}
+.SRA_element{
+    cursor:pointer;
+}

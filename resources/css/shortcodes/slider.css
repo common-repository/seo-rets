@@ -1,0 +1,52 @@
+#sr-slider {
+    position: relative;
+
+    height: 480px;
+    float: left;
+    overflow: hidden;
+}
+
+#sr-slide-info {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+    color: #FFF;
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+
+#sr-slide-info-description {
+    font-size: 11px;
+    line-height: 15px;
+}
+
+#sr-slide-info-city {
+    font-size: 22px;
+}
+
+#sr-slide-info-price {
+    font-size: 18px;
+}
+
+
+#sr-slide-image, #sr-slide-image-back {
+    width: 100%;
+}
+
+#sr-slide-image-back {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+}
+
+#sr-slide-info-readmore {
+    position: absolute;
+    top: 50%;
+    margin-top: -15px;
+    right: 60px;
+
+}

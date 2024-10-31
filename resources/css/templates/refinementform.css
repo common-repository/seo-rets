@@ -1,0 +1,11 @@
+#sr-selects{
+    float: left;
+    padding-right: 5px;
+    margin-bottom: 3px;
+}
+#sr-inputs{
+    float: left;
+}
+.sr-search-bar-sub-item{
+    display: inline-block;
+}

@@ -1,0 +1,48 @@
+.marketTable {
+
+}
+
+div.srHide {
+    display: none;
+}
+
+.sr-market {
+    vertical-align: middle;
+    text-align: center;
+}
+
+div#marketMain th, div#marketMain td {
+    padding-left: 1px;
+    padding-right: 1px;
+    text-align: center;
+}
+
+.marketIntrText {
+    text-align: left;
+}
+
+.mCities, .mCondos, .mSubdivisions {
+    word-break: break-word;
+}
+
+.sr-market table td, .sr-market table th {
+    border-color: black;
+    border-width: 1px !important;
+    border-style: solid !important;
+}
+
+.priceWidth {
+    width: 12%;
+}
+
+.sqftWidth {
+    width: 8%;
+}
+
+.yearWidth {
+    width: 7%
+}
+
+.subdTitle {
+    width: 11%;
+}

@@ -1,0 +1,15 @@
+* {
+    font-family:Verdana,Arial;
+    font-size:11px;
+    line-height:15px;
+}
+p {
+    margin: 0 0 15px;
+}
+th {
+    text-align: left;
+    vertical-align: top;
+}
+td {
+    padding-bottom: 4px;
+}

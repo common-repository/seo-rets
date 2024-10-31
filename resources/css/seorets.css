@@ -1,0 +1,11 @@
+#predictive {
+	background-color: rgba(255,255,255,.7);
+	line-height: 1.7;
+}
+#predictive a {
+	padding: 2px 15px;
+	display: block;
+}
+#predictive a:hover {
+	background-color: rgba(255,255,255,1);
+}
